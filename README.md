@@ -1,27 +1,26 @@
-👋 Hi, I'm Enitoluwafe Faleye
-I'm a Computer Science student at City of Bristol College, currently studying Digital Production, Design, and Development.
+👋 Hi, I'm Enitoluwafe Faleye <br>
+I'm a Computer Science student at City of Bristol College, currently studying Digital Production, Design, and Development.<br>
 
-💡 About Me
-I'm passionate about technology and problem-solving. I enjoy working in teams, managing tasks, and building practical skills through hands-on projects. My interests range from software development to hardware building.
+💡 About Me<br>
+I'm passionate about technology and problem-solving. I enjoy working in teams, managing tasks, and building practical skills through hands-on projects. My interests range from software development to hardware building.<br>
 
-🧰 Skills & Tools
-💻 Programming: Python
-💻 Skills: Power BI
+🧰 Skills & Tools<br>
+💻 Programming: Python<br>
+💻 Skills: Power BI<br>
 
-🖥️ Microsoft Tools: Office Suite (Word, Excel, PowerPoint)
-🖥️ Microsoft Tools: Microsoft Project (Gantt Charts) 
-🖥️ Microsoft Tools:
+🖥️ Microsoft Tools: Office Suite (Word, Excel, PowerPoint)<br>
+🖥️ Microsoft Tools: Microsoft Project (Gantt Charts) <br>
 
-✅ Certified: Microsoft Power Platform Fundamentals (2024–2025)
-✅ Certified: PCEP – Certified Entry-Level Python Programmer
+✅ Certified: Microsoft Power Platform Fundamentals (2024–2025)<br>
+✅ Certified: PCEP – Certified Entry-Level Python Programmer<br>
 
-🎯 Interests
-PC building & hardware troubleshooting
-Coding challenges & competitions
-Exploring emerging tech (AI, cybersecurity, etc.)
+🎯 Interests<br>
+PC building & hardware troubleshooting<br>
+Coding challenges & competitions<br>
+Exploring emerging tech (AI, cybersecurity, etc.)<br>
 
-📍 Bristol, UK
-✉️ faleyenenny@gmail.com
+📍 Bristol, UK<br>
+✉️ faleyenenny@gmail.com<br>
 
 
 # 💻 Tech Stack:
