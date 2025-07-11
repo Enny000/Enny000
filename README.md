@@ -6,6 +6,7 @@ I'm passionate about technology and problem-solving. I enjoy working in teams, m
 
 🧰 Skills & Tools<br>
 💻 Programming: Python<br>
+💻 Programming: Pandas(python) <br>
 💻 Skills: Power BI<br>
 
 🖥️ Microsoft Tools: Office Suite (Word, Excel, PowerPoint)<br>
