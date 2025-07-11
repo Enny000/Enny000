@@ -24,7 +24,7 @@ Coding challenges & competitions<br>
 Exploring emerging tech (AI, cybersecurity, etc.)<br>
 
 📍 Bristol, UK<br>
-✉️ faleyennny@gmail.com<br>
+✉️ faleyeenny@gmail.com<br>
 
 
 # 💻 Tech Stack:
