@@ -17,6 +17,7 @@ I'm passionate about technology and problem-solving. I enjoy working in teams, m
 
 ✅ Certified: Microsoft Power Platform Fundamentals (2024–2025)<br>
 ✅ Certified: PCEP – Certified Entry-Level Python Programmer<br>
+✅ Certified: PCAP – Certified Associate-Level Python Programmer<br>
 
 🎯 Interests<br>
 PC building & hardware troubleshooting<br>
@@ -29,6 +30,8 @@ Exploring emerging tech (AI, cybersecurity, etc.)<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <h3>Frameworks/Platforms/Libraries:</h3>
 
